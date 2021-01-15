@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="lwjgl-release-3.2">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Documents/Programs/Java Libraries/lwjgl-release-3.2.3-custom" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Documents/Programs/Java Libraries/lwjgl-release-3.2.3-custom/lwjgl-assimp-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Programs/Java Libraries/lwjgl-release-3.2.3-custom/lwjgl-bgfx-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Programs/Java Libraries/lwjgl-release-3.2.3-custom/lwjgl-glfw-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Programs/Java Libraries/lwjgl-release-3.2.3-custom/lwjgl-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Programs/Java Libraries/lwjgl-release-3.2.3-custom/lwjgl-nanovg-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Programs/Java Libraries/lwjgl-release-3.2.3-custom/lwjgl-nuklear-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Programs/Java Libraries/lwjgl-release-3.2.3-custom/lwjgl-openal-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Programs/Java Libraries/lwjgl-release-3.2.3-custom/lwjgl-opengl-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Programs/Java Libraries/lwjgl-release-3.2.3-custom/lwjgl-par-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Programs/Java Libraries/lwjgl-release-3.2.3-custom/lwjgl-stb-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Programs/Java Libraries/lwjgl-release-3.2.3-custom/lwjgl-vulkan-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Documents/Programs/Java Libraries/lwjgl-release-3.2.3-custom" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Documents/Programs/Java Libraries/lwjgl-release-3.2.3-custom" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Documents/Programs/Java Libraries/lwjgl-release-3.2.3-custom" recursive="false" type="SOURCES" />
+  </library>
+</component>
